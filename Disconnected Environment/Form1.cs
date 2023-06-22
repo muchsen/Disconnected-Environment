@@ -21,6 +21,8 @@ namespace Disconnected_Environment
         private void toolStripLabel1_Click(object sender, EventArgs e)
         {
             new Form2().Show();
+            new Form3().Show();
+            new Form4().Show();
         }
     }
 }
